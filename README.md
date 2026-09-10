@@ -113,7 +113,7 @@ pysocks>=1.7.1
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/wixerox.git
+git clone https://github.com/wixerox/wixerox.git
 cd wixerox
 ```
 
@@ -326,7 +326,7 @@ pysocks>=1.7.1
 
 ### مرحله ۱: کلون کردن ریپازیتوری
 ```bash
-git clone https://github.com/YOUR_USERNAME/wixerox.git
+git clone https://github.com/wixerox/wixerox.git
 cd wixerox
 ```
 
